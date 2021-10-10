@@ -1,0 +1,17 @@
+﻿  gold.cpp
+H:\gameforeasyx\hjkg\hjkggame2\hjkggame2\gold.cpp(93,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\gameforeasyx\hjkg\hjkggame2\hjkggame2\gold.cpp(212,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\gameforeasyx\hjkg\hjkggame2\hjkggame2\gold.cpp(212,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\gameforeasyx\hjkg\hjkggame2\hjkggame2\gold.cpp(204,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\gameforeasyx\hjkg\hjkggame2\hjkggame2\gold.cpp(216,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\gameforeasyx\hjkg\hjkggame2\hjkggame2\gold.cpp(305,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+H:\gameforeasyx\hjkg\hjkggame2\hjkggame2\gold.cpp(306,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+H:\gameforeasyx\hjkg\hjkggame2\hjkggame2\gold.cpp(319,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+H:\gameforeasyx\hjkg\hjkggame2\hjkggame2\gold.cpp(320,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+H:\gameforeasyx\hjkg\hjkggame2\hjkggame2\gold.cpp(347,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+H:\gameforeasyx\hjkg\hjkggame2\hjkggame2\gold.cpp(391,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\gameforeasyx\hjkg\hjkggame2\hjkggame2\gold.cpp(401,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\gameforeasyx\hjkg\hjkggame2\hjkggame2\gold.cpp(449,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\gameforeasyx\hjkg\hjkggame2\hjkggame2\gold.cpp(449,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+H:\gameforeasyx\hjkg\hjkggame2\hjkggame2\gold.cpp(226): warning C4715: “lerp”: 不是所有的控件路径都返回值
+  hjkggame2.vcxproj -> H:\gameforeasyx\hjkg\hjkggame2\Debug\hjkggame2.exe
